@@ -8,7 +8,7 @@
 - Phone: (804) 716-5480 (call or text)
 - Instagram: https://www.instagram.com/islandhub_/ (@islandhub_)
 - Yelp: https://www.yelp.com/biz/island-hub-caribbean-market-richmond
-- Website: https://islandhubrva.com/
+- Website: https://island-hub-caribbean-market.netlify.app/
 - Directions: https://www.google.com/maps/search/?api=1&query=Island+Hub+Caribbean+Market%2C+6856+Midlothian+Turnpike+Ste+104%2C+Richmond%2C+VA+23225
 
 ## Hours (America/New_York)
@@ -36,12 +36,12 @@
 - Shipping barrels are sold in store.
 - Barrel pickup in and around Richmond (RVA). Fees apply.
 - Grocery orders shipped to all US states. Perishable items ship overnight.
-- Rates, transit times and carriers are not published. Every shipment is quoted: call or text (804) 716-5480, message @islandhub_ on Instagram, or use the quote form at https://islandhubrva.com/shipping.html#quote
+- Rates, transit times and carriers are not published. Every shipment is quoted: call or text (804) 716-5480, message @islandhub_ on Instagram, or use the quote form at https://island-hub-caribbean-market.netlify.app/shipping.html#quote
 
 ## Prices and ordering
 - Shelf prices in store; no price list is published online.
 - No online store or checkout. Order by walking in, calling or texting (804) 716-5480, or sending an Instagram direct message.
-- Item requests: https://islandhubrva.com/visit.html#request
+- Item requests: https://island-hub-caribbean-market.netlify.app/visit.html#request
 
 ## FAQ
 - Do I need an appointment? No, walk in during store hours.
@@ -53,7 +53,7 @@
 - Can I order online? No online checkout; call, text or DM on Instagram.
 
 ## Pages
-- Home: https://islandhubrva.com/
-- Shop by aisle: https://islandhubrva.com/aisles.html
-- Barrel and box shipping: https://islandhubrva.com/shipping.html
-- Visit, hours and item requests: https://islandhubrva.com/visit.html
+- Home: https://island-hub-caribbean-market.netlify.app/
+- Shop by aisle: https://island-hub-caribbean-market.netlify.app/aisles.html
+- Barrel and box shipping: https://island-hub-caribbean-market.netlify.app/shipping.html
+- Visit, hours and item requests: https://island-hub-caribbean-market.netlify.app/visit.html

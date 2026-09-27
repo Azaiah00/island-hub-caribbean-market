@@ -39,3 +39,8 @@ sorrel-fresh, store-aisle-flags (cropped from a creator's collab video frame, ab
 
 ## Domain
 - Proposed: **islandhubrva.com** (used in canonical tags, Open Graph, sitemap, robots and JSON-LD). Check availability and register it before launch, or find and replace across all files if a different domain is chosen.
+
+
+## Live preview domain (updated 27 Sep 2026)
+The site is live at https://island-hub-caribbean-market.netlify.app/ and every canonical URL, Open Graph/Twitter tag, JSON-LD URL, sitemap.xml, robots.txt and llms.txt now points there, so text-message and social link previews show this address.
+When the owner's own domain (islandhubrva.com) is connected in Netlify, find-and-replace `island-hub-caribbean-market.netlify.app` with `islandhubrva.com` across the .html/.xml/.txt/.toml files, then redeploy.

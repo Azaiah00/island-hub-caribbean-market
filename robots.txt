@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://islandhubrva.com/sitemap.xml
+Sitemap: https://island-hub-caribbean-market.netlify.app/sitemap.xml
