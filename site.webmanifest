@@ -1,0 +1,15 @@
+{
+  "name": "Island Hub Caribbean Market",
+  "short_name": "Island Hub",
+  "description": "Caribbean grocery on Midlothian Turnpike in Richmond, VA. We ship barrels and boxes to every Caribbean island.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#FFF7EA",
+  "theme_color": "#B3123A",
+  "icons": [
+    { "src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/assets/img/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
