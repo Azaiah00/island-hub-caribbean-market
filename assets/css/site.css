@@ -711,3 +711,12 @@ body { padding-bottom: calc(62px + env(safe-area-inset-bottom)); }
 .how-photo img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: 50% 20%; box-shadow: 12px 12px 0 var(--night); }
 .how-photo .tag { position: absolute; left: -8px; bottom: 24px; }
 @media (min-width: 900px) { .how-head { grid-template-columns: 1fr 380px; gap: 64px; } .how-photo { justify-self: end; } }
+
+
+/* Fix (28 Sep 2026): on phones the two columns of aisle tags were 11px wider than the screen.
+   Let each column shrink to half the width and let long aisle names wrap. */
+.aisle-tags { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.aisle-tags li, .aisle-tags .hang-tag { min-width: 0; }
+.aisle-tags .at-name, .aisle-tags .at-note { overflow-wrap: break-word; hyphens: manual; }
+@media (min-width: 1000px) { .aisle-tags { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+@supports (overflow: clip) { html, body { overflow-x: clip; } }
